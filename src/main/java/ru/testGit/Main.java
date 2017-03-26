@@ -20,4 +20,8 @@ public class Main {
         stringMap.forEach((k, v) -> System.out.println(k + " - " + v));
     }
 
+    public static void method1(){
+        System.out.println("method1");
+    }
+
 }
