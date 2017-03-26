@@ -24,4 +24,8 @@ public class Main {
         System.out.println("method1");
     }
 
+    public static void method2(){
+        System.out.println("method2");
+    }
+
 }
