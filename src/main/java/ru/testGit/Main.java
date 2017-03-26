@@ -8,6 +8,7 @@ import java.util.Map;
 public class Main {
     private String name;
     private String description;
+    private String age;
 
 
     public static void main(String[] args) {
