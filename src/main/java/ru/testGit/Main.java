@@ -19,6 +19,8 @@ public class Main {
         System.out.println("==========================");
 
         stringMap.forEach((k, v) -> System.out.println(k + " - " + v));
+
+        method1();
     }
 
     public static void method1(){
